@@ -1,0 +1,53 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.box{
+    width: 30%;
+    height: 100vh;
+    background-color: whitesmoke;
+    position: relative;
+    bottom: -70%;
+}
+
+.box h2{
+    padding-top: 50px;
+    font-size: large;
+    text-align: center;
+}
+.box h2 i {
+ color: black;
+ size: 30%;
+}
+.box p{
+    /* text-align: center; */
+    font-size: medium;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.item ul{
+    list-style: none;
+    padding-left: 20px;
+    padding-top: 30px;
+    
+}
+.item ul li a{
+    text-decoration: none;
+    font-size: larger;
+    padding-top: 10px;
+    /* justify-content: space-around; */
+}
+.item ul li a {
+    padding-top: 10px;
+
+}
+.item ul li a:hover{
+    color: red;
+}
+/* .pera{
+    width: 100%;
+    height: auto;
+    margin-left: 40%;
+    
+    
+} */

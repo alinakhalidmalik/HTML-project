@@ -1,0 +1,473 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex; 
+}
+.first{
+width: 20%;
+height: 100vh;
+background-color: white;
+padding-top: 5px;
+position: relative;
+position: fixed;
+}
+.first h2{
+text-align: center;
+font-size: 25px;
+padding-top: 25px;
+ 
+}
+.first h2:hover{
+color: rgb(204, 27, 27);
+}
+.first p{
+text-align: center;
+font-size: medium;
+padding-top: 15px;
+padding-left: 20px;
+color:rgb(112, 109, 109);
+}
+.first ul{
+list-style: none;
+color: black;
+font-size: larger;
+padding-top:65px ;
+margin-top: 10px;
+justify-content: space-around;
+
+}
+.first ul li a {
+padding-left: 40px;
+text-decoration: none;
+color: black;
+justify-content:space-between ;
+}
+.first ul li a:hover{
+color: red;
+}
+.box3{
+padding-top: 50%;
+
+}
+.box3 a i{
+text-decoration:none ;
+color: black;
+font-size: 30px;
+margin-left: 50px;
+} 
+.box3 a i:hover{
+color: red;
+}
+.box3 p a {
+text-decoration:none ;
+color: black;
+margin-left: 10px;
+}
+.box3 p a:hover{
+color: red;
+}
+
+.second{
+width: 85%;
+height: 100vh;
+background-color: white;
+position: relative;
+margin-left: 25%;
+display: flex;
+}
+.second1 h3{
+        font-size: 50px;
+        display: flex;
+        color: rgb(153, 153, 216);
+        padding-top: 20px;
+ }
+.second1 h3:hover{
+        font-style: oblique;
+        color: blue;
+}
+
+.second1{
+    width: 90%;
+}
+.second1 p{
+    padding-left: 10px;
+    font-size: large;
+    color: rgb(112, 109, 109);
+}
+.second1 p:hover{
+    color: black;
+    text-decoration: underline;
+}
+.second1 #peragraph{
+    padding-left: 50px;
+    font-size: larger;
+    color: rgb(112, 109, 109);
+}
+.second1 #peragraph:hover{
+    color: black;
+    text-decoration: underline;
+} 
+.second1 h2{
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 40px;
+    color: rgb(153, 153, 216);
+
+}
+.second1 h2:hover{
+    font-style: oblique;
+        color: blue;
+        text-decoration: underline;
+}
+.second1 .head1{
+    margin-top: 20px;
+    padding-left: 20px;
+    font-size: 20px;
+    border: 1px solid rgb(112, 109, 109);
+}
+.second1 .head2{
+    padding-top: 5px;
+    padding-left: 20px;
+    font-size: 17px;
+    height: 50px;
+    border:.5px solid rgb(112, 109, 109);
+}
+.second1 .head3{
+    padding-top: 5px;
+    font-size: 15px;
+    height: 50px;
+    padding-left: 20px;
+    border:.5px solid rgb(112, 109, 109);
+}
+.second1 .head4{
+    padding-top: 5px;
+    padding-left: 20px;
+    font-size: 13px;
+    height: 50px;
+    margin-bottom: 20px;
+    border: .5px solid rgb(112, 109, 109);
+}
+.second1 .list{
+    display: flex;
+    width: 100%;
+    padding-bottom: 100px;
+    /* margin-top: 10px; */
+    /* align-items: center; */
+    /* justify-content:space-between; */
+}
+.list .ordered{
+    width: 30%;
+    color:rgb(110, 105, 105) ;
+    margin-top: 20px;
+    padding-left: 30px;
+}
+.list .number{
+    width: 30%;
+    color:rgb(110, 105, 105) ;
+    padding-left: 50px;
+    margin-top: 20px;
+}
+.list .ordered ul h3{
+    font-size: 25px;
+    color: rgb(150, 150, 210)
+}
+.list .ordered ul h3:hover{
+    color: red;
+}
+.list .number ol h3{
+    font-size: 25px;
+    padding-left:26px ;
+    color: rgb(150, 150, 210)
+}
+.list .number ol h3:hover{
+    color: red;
+}
+.second2{
+    width: 65%;
+    margin-left: 10px;
+}
+.second2 h3{
+    font-size: 50px;
+    /* display: flex; */
+    color: rgb(153, 153, 216);
+    padding-top: 20px;
+}
+.second2 h3:hover{
+    font-style: oblique;
+    color: blue;
+}
+.second2 h4{
+    font-size: 20px;
+    /* display: flex; */
+    color: rgb(171, 171, 230);
+    padding-top: 20px;
+}
+.second2 h4:hover{
+    font-style: oblique;
+    color: blue;
+}
+.box1 a{
+    text-decoration: none;
+    color: black;
+}
+.box1 a h2{
+  font-size: 30px;
+  display: inline-block;
+  justify-content: space-between;
+  margin-left: 10px;
+  padding-top: 30px;
+}
+.box1 a h2:hover{
+  color: red;
+}
+.box1 a i{
+  font-size: 30px;
+  margin-left: 20px;
+}
+.box1 a i:hover{
+  color: red;
+}
+.second2 h1{
+    padding-left: 10px;
+    padding-top: 23px;
+    font-size: 50px;
+    color: rgb(153, 153, 216);
+
+}
+.second2 h1:hover{
+    font-style: oblique;
+        color: blue;
+        text-decoration: underline;
+}
+.second2 h4{
+    font-size: 25px;
+    padding-top: 50px;
+     /* display: flex; */
+    color: rgb(185, 185, 230);
+ }
+.second2 h4:hover{
+     font-style: oblique;
+     color: blue;
+}
+.second2 .button{
+    display: flex;
+    width: 100%;
+    padding-bottom: 100px;
+    /* margin-top: 10px; */
+    /* align-items: center; */
+    /* justify-content:space-between; */
+}
+.button .primary{
+    width: 30%;
+    color:rgb(110, 105, 105) ;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.button .secondary{
+    width: 30%;
+    color:rgb(110, 105, 105) ;
+    padding-left: 50px;
+    margin-top: 20px;
+}
+#first{
+    width: 170px;
+    height: 40px;
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+    border-radius: 20px;
+    background-color: rgb(216, 107, 107);
+}
+#first:hover{
+    background-color: red;
+}
+#second{
+    width: 130px;
+    height: 40px;
+    font-size: 15px;
+   margin-top: 10px;
+    color: white;
+    border-radius: 20px;
+    background-color: rgb(216, 107, 107);
+}
+#second:hover{
+    background-color: red;
+}
+#third{
+    width: 100px;
+    height: 40px;
+    margin-top: 10px;
+    font-size: 13px;
+    color: white;
+    border-radius: 20px;
+    background-color: rgb(216, 107, 107);
+}
+#third:hover{
+    background-color: red;
+}
+.primary h2{
+    padding-left: 10px;
+    padding-top: 23px;
+    font-size: 25px;
+    color: rgb(153, 153, 216);
+
+}
+.primary h2:hover{
+    font-style: oblique;
+        color: blue;
+        text-decoration: underline;
+}
+#fourth{
+    width: 170px;
+    height: 40px;
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 18px;
+    color: white;
+    border-radius: 20px;
+    background-color: rgb(224, 173, 77);
+}
+#fourth:hover{
+    background-color:orange ;
+}
+#fifth{
+    width: 130px;
+    height: 40px;
+    font-size: 15px;
+    margin-left: 30px;
+   margin-top: 10px;
+    color: white;
+    border-radius: 20px;
+    background-color: rgb(224, 173, 77);
+}
+#fifth:hover{
+    background-color: orange;
+}
+#sixth{
+    width: 100px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 13px;
+    border-radius: 20px;
+    background-color: rgb(224, 173, 77);
+}
+#sixth:hover{
+    background-color:orange;
+}
+.secondary h2{
+    padding-left: 10px;
+    padding-top: 23px;
+    font-size: 25px;
+    color: rgb(153, 153, 216);
+
+}
+.secondary h2:hover{
+    font-style: oblique;
+        color: blue;
+        text-decoration: underline;
+}
+#seven{
+    width: 170px;
+    height: 40px;
+    margin-left: 30px;
+    font-size: 18px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+#seven:hover{
+    background-color:rgb(165, 165, 165) ;
+}
+#eight{
+    width: 130px;
+    height: 40px;
+    font-size: 15px;
+    margin-left: 30px;
+   margin-top: 10px;
+    border-radius: 20px;
+}
+#eight:hover{
+    background-color: rgb(165, 165, 165);
+}
+#nine{
+    width: 100px;
+    height: 40px;
+    margin-top: 13px;
+    margin-left: 30px;
+    font-size: 10px;
+    border-radius: 20px;
+}
+#nine:hover{
+    background-color:rgb(165, 165, 165);
+}
+.default h2{
+    padding-left: 13px;
+    padding-top: 10px;
+    font-size: 25px;
+    color: rgb(153, 153, 216);
+
+}
+.default h2:hover{
+    font-style: oblique;
+        color: blue;
+        text-decoration: underline;
+}
+.second2 h5{
+    padding-left: 15px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-size: 25px;
+    color: rgb(153, 153, 216);
+
+}
+.second2 h5:hover{
+    font-style: oblique;
+        color: blue;
+        text-decoration: underline;
+}
+.second2 label{
+    
+    font-size: 25px;
+    padding-left: 20px;
+    
+}
+.second2 input{
+    width: 80%;
+    height: 45px;
+    padding-left: 10px;
+    font-size: larger;
+}
+.second2 select{
+    width: 83%;
+    height: 45px;
+    margin-top: 30px;
+}
+.second2 textarea{
+    margin-top: 35px;
+  padding: 10px;
+}
+.second2 #btn{
+        width: 85%;
+        height: 50px;
+        margin-top: 30px;
+        color: whitesmoke;
+        background: rgb(126, 76, 76);
+ }
+ .second2 #btn:hover{
+     background-color: red;
+ }
+ .second2 #btn1{
+    width: 85%;
+    height: 50px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    color: whitesmoke;
+    background: rgb(154, 199, 88);
+}
+.second2 #btn1:hover{
+    background-color: greenyellow;
+}

@@ -1,0 +1,319 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex; 
+}
+.first{
+width: 25%;
+height: 100vh;
+background-color: white;
+padding-top: 10px;
+position: relative;
+position: fixed;
+}
+.first h2{
+text-align: center;
+font-size: 25px;
+padding-top: 20px;
+ 
+}
+.first h2:hover{
+color: rgb(228, 44, 44);
+}
+.first p{
+text-align: center;
+font-size: medium;
+padding-top: 10px;
+color:rgb(112, 109, 109);
+}
+.first ul{
+list-style: none;
+color: black;
+font-size: larger;
+padding-top:60px ;
+margin-top: 10px;
+justify-content: space-around;
+
+}
+.first ul li a {
+padding-left: 30px;
+text-decoration: none;
+color: black;
+justify-content:space-between ;
+}
+.first ul li a:hover{
+color: red;
+}
+.box3{
+padding-top: 60%;
+
+}
+.box3 a i{
+text-decoration:none ;
+color: black;
+font-size: 30px;
+margin-left: 30px;
+} 
+.box3 a i:hover{
+color: red;
+}
+.box3 p a {
+text-decoration:none ;
+color: black;
+margin-left: 10px;
+}
+.box3 p a:hover{
+color: red;
+}
+
+.second{
+width: 75%;
+height: 100vh;
+background-color: white;
+position: relative;
+margin-left: 30%;
+display: flex;
+
+}
+.div1{
+width: 50%;
+height: auto;
+padding-top: 30px;
+
+}
+.div2{
+width: 50%;
+height: auto;
+padding-top: 30px;
+}
+
+.box1{
+    width: 350px;
+    position: relative;
+    /* height: 400px; */
+    overflow: hidden;
+
+}
+.box1 img{
+    width: 100%;
+    height: auto;
+}
+.pera{
+    background-color: rgba(250, 243, 243, 0.3);
+    position: absolute;
+    top: -100%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    color: black;
+    padding: 30%;
+    box-sizing: border-box;
+    transition: all .9s;
+}
+.box1:hover .pera{
+    top: 0%;
+}
+.box1:hover {
+    left: 0%;
+    transform: scale(0.9);
+}
+.box2{
+    width: 350px;
+    position: relative;
+    /* height: 400px; */
+    overflow: hidden;
+}
+.box2 img{
+    width: 100%;
+    height: auto;
+}
+.pera{
+    background-color: rgba(250, 243, 243, 0.3);
+    position: absolute;
+    top: -100%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    color: black;
+    padding: 30%;
+    box-sizing: border-box;
+    transition: all .9s;
+}
+.box2:hover .pera{
+    top: 0%;
+}
+.box2:hover{
+    transform: scale(0.9);
+}
+.box9{
+    width: 350px;
+    position: relative;
+    /* height: 400px; */
+    overflow: hidden;
+}
+.box9 img{
+    width: 100%;
+    height: auto;
+}
+.pera{
+    background-color: rgba(250, 243, 243, 0.3);
+    position: absolute;
+    top: -100%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    color: black;
+    padding: 30%;
+    box-sizing: border-box;
+    transition: all .9s;
+}
+.box9:hover .pera{
+    top: 0%;
+}
+.box9:hover{
+    transform: scale(0.9);
+}
+.box4{
+    width: 350px;
+    position: relative;
+    /* height: 400px; */
+    overflow: hidden;
+}
+.box4 img{
+    width: 100%;
+    height: auto;
+}
+.pera{
+    background-color: rgba(250, 243, 243, 0.3);
+    position: absolute;
+    top: -100%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    color: black;
+    padding: 30%;
+    box-sizing: border-box;
+    transition: all .9s;
+}
+.box4:hover .pera{
+    top: 0%;
+}
+.box4:hover{
+    transform: scale(0.9);
+}
+.box5{
+    width: 350px;
+    position: relative;
+    /* height: 400px; */
+    overflow: hidden;
+}.box5 img{
+    width: 100%;
+    height: auto;
+}
+.pera{
+    background-color: rgba(250, 243, 243, 0.3);
+    position: absolute;
+    top: -100%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    color: black;
+    padding: 30%;
+    box-sizing: border-box;
+    transition: all .9s;
+}
+.box5:hover .pera{
+    top: 0%;
+}
+.box5:hover{
+    transform: scale(0.9);
+}
+.box{
+    width: 350px;
+    position: relative;
+    /* height: 400px; */
+    overflow: hidden;
+}
+.box6 img{
+    width: 100%;
+    height: auto;
+}
+.pera{
+    background-color: rgba(250, 243, 243, 0.3);
+    position: absolute;
+    top: -100%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    color: black;
+    padding: 30%;
+    box-sizing: border-box;
+    transition: all .9s;
+}
+.box6:hover .pera{
+    top: 0%;
+}
+.box6:hover{
+    transform: scale(0.9);
+}
+.box7{
+    width: 350px;
+    position: relative;
+    /* height: 400px; */
+    overflow: hidden;
+}
+.box7 img{
+    width: 100%;
+    height: auto;
+}
+.pera{
+    background-color: rgba(250, 243, 243, 0.3);
+    position: absolute;
+    top: -100%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    color: black;
+    padding: 30%;
+    box-sizing: border-box;
+    transition: all .9s;
+}
+.box7:hover .pera{
+    top: 0%;
+}
+.box7:hover{
+    transform: scale(0.9);
+}
+.box8{
+    width: 350px;
+    position: relative;
+    /* height: 400px; */
+    overflow: hidden;
+}
+.box8 img{
+    width: 100%;
+    height: auto;
+}
+.pera{
+    background-color: rgba(250, 243, 243, 0.3);
+    position: absolute;
+    top: -100%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    color: black;
+    padding: 30%;
+    box-sizing: border-box;
+    transition: all .9s;
+}
+.box8:hover .pera{
+    top: 0%;
+}
+.box8:hover{
+    transform: scale(0.9);
+}
+

@@ -1,0 +1,190 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+.first{
+width: 25%;
+height: 100vh;
+background-color: white;
+padding-top: 5px;
+position: relative;
+position: fixed;
+}
+.first h2{
+text-align: center;
+font-size: 25px;
+padding-top: 25px;
+padding-left: 20px;
+ 
+}
+.first h2:hover{
+color: rgb(204, 27, 27);
+}
+.first p{
+text-align: center;
+font-size: medium;
+padding-top: 15px;
+padding-left: 20px;
+color:rgb(112, 109, 109);
+}
+.first ul{
+list-style: none;
+color: black;
+font-size: larger;
+padding-top:65px ;
+margin-top: 10px;
+justify-content: space-around;
+
+}
+.first ul li a {
+padding-left: 40px;
+text-decoration: none;
+color: black;
+justify-content:space-between ;
+}
+.first ul li a:hover{
+color: red;
+}
+.box3{
+padding-top: 50%;
+
+}
+.box3 a i{
+text-decoration:none ;
+color: black;
+font-size: 30px;
+margin-left: 50px;
+} 
+.box3 a i:hover{
+color: red;
+}
+.box3 p a {
+text-decoration:none ;
+color: black;
+margin-left: 10px;
+}
+.box3 p a:hover{
+color: red;
+}
+
+.second{
+width: 85%;
+height: 100vh;
+background-color: white;
+position: relative;
+margin-left: 25%;
+display: flex;
+}
+/* .second1 h3{
+        font-size: 50px;
+        display: flex;
+        color: rgb(153, 153, 216);
+        padding-top: 20px;
+ }
+.second1 h3:hover{
+        font-style: oblique;
+        color: blue;
+}
+
+.second1{
+    width: 90%;
+}
+.second1 p{
+    padding-left: 10px;
+    font-size: large;
+    color: rgb(112, 109, 109);
+}
+.second1 p:hover{
+    color: black;
+    text-decoration: underline;
+}
+.second1 #peragraph{
+    padding-left: 50px;
+    font-size: larger;
+    color: rgb(112, 109, 109);
+}
+.second1 #peragraph:hover{
+    color: black;
+    text-decoration: underline;
+}  */
+/* .second2 h2{
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 40px;
+    color: rgb(153, 153, 216);
+
+}
+.second2 h2:hover{
+    font-style: oblique;
+        color: blue;
+        text-decoration: underline;
+} */
+.second1{
+    width: 50%;
+    height: 100vh;
+}
+.second2{
+    width: 50%;
+    height: 100vh;
+}
+.second1 img{
+    width: 100%;
+    height: 90vh;
+    padding-top: 30px;
+}
+.second .second1 img:hover{
+    transform: translate(0.8);
+}
+.second2 h2{
+        font-size: 50px;
+        /* display: flex; */
+        color: rgb(153, 153, 216);
+        padding-top: 20px;
+        padding-left: 10px;
+    }
+.second2 h2:hover{
+        font-style: oblique;
+        color: blue;
+ }
+ .second2 p{
+    padding-left: 40px;
+    font-size: 20px;
+    color:rgb(112, 109, 109);
+ }
+ .second2 p:hover{
+    color: black;
+    text-decoration: underline;
+}
+.second2 h3{
+    color: rgb(143, 141, 141);
+    padding-top: 20px;
+    padding-left: 10px;
+    font-size: 25px;
+}
+.second2 h3:hover{
+    font-style: oblique;
+    color:black;
+}
+.second2 button{
+        border-radius: 40px;
+        background-color: rgb(212, 101, 101);
+        color: whitesmoke;
+        padding: 15px;
+        padding-bottom: 30px;
+        font-size: 13px;
+        width: 130px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        height: 20px;
+        margin-left: 70px;
+}
+ .second2 button:hover{
+       background-color: red;
+    
+}
+
